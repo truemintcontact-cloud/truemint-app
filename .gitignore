@@ -49,3 +49,8 @@ node_modules
 node_modules
 *.tgz
 
+
+.next
+node_modules
+*.tgz
+
