@@ -44,3 +44,8 @@ next-env.d.ts
 node_modules
 *.tgz
 
+
+.next
+node_modules
+*.tgz
+
